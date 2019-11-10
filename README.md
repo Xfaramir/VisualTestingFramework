@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 A step by step series of examples that tell you how to get a development env running
 
 ```
-git clone https://github.com/Xfaramir/visualApplitoolsHackathon
+git clone https://github.com/Xfaramir/VisualTestingFramework
 ```
 
 Navigate to the folder where your project is located.
